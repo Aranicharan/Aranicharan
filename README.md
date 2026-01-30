@@ -93,15 +93,14 @@ BI automation, ETL pipelines, and KPI-driven insights.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aranicharan&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aranicharan" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=Aranicharan&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aranicharan&theme=tokyonight" />
+<p align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aranicharan&theme=tokyonight" /> 
+</p> 
+<p align="center"> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aranicharan&theme=tokyo-night" />
 </p>
 
 ---
