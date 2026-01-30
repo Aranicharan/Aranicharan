@@ -92,9 +92,7 @@ BI automation, ETL pipelines, and KPI-driven insights.
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aranicharan" />
-</p>
+
 
 <p align="center"> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aranicharan&theme=tokyonight" /> 
