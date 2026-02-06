@@ -90,18 +90,7 @@ BI automation, ETL pipelines, and KPI-driven insights.
 
 ---
 
-## 📊 GitHub Analytics
 
-
-
-<p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aranicharan&theme=tokyonight" /> 
-</p> 
-<p align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aranicharan&theme=tokyo-night" />
-</p>
-
----
 
 ## 🎓 Education
 **B.Tech – Computer Science (Data Science)**  
